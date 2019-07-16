@@ -1,0 +1,21 @@
+{
+  "name": "dtermined-test-rn-module",
+  "version": "1.0.21",
+  "description": "Just experiment with native modules for RN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "16.6.3",
+    "react-native": "0.60.0",
+    "prop-types": "15.7.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "prop-types": "*"
+  }
+}
